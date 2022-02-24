@@ -1,4 +1,4 @@
-# calculadoracssjs
+# Calculadora HTML CSS JAVASCRIPT
 Calculadora feita em HTML, CSS e JavaScript
 
 Projeto baseado no projeto de Gustavo Neitzke
